@@ -1,0 +1,36 @@
+body{
+  background-color: #EFFCEF;
+}
+
+table{
+  width:60%;
+  border-spacing: 50px;
+}
+tr{
+  height:200px;
+  width: 50%;
+  text-align: center;
+
+}
+hr{
+  width:10%;
+  border-color: #94D3AC;
+  border-style: dotted none none;
+  border-width: 5px;
+
+}
+h1, h2, h3, h4, h5, h6, p{
+  font-family: Helvetica;
+  line-height:150%;
+  color:#655C56;
+}
+h1{
+  font-size: 5em;
+  margin-block-end: 0;
+}
+
+
+img{
+  width: 100%;
+  height: 100%;
+}
